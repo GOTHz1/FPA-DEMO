@@ -1,5 +1,5 @@
 # FPA-DEMO
-《FPA-Net:超轻量人脸姿态估计多任务学习》Demo。  
+《FPA-Net:超轻量人脸姿态估计多任务学习》Demo release。  
 Base on ncnn-android-scrfd：[link](https://github.com/nihui/ncnn-android-scrfd)。  
 model1:trained on 300W-LP+BIWI。  
 model2:trained 300W-LP。  
